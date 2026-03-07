@@ -102,3 +102,6 @@ The bot uses a local SQLite database (`trades.db`) with three main tables:
 
 ## 📄 License
 MIT License. Created by [Janeri Systems](https://janeri.com.br).
+
+## 👥 Credits
+*   **Osvaldo J. Filho** ([LinkedIn](https://linkedin.com/in/ojaneri) | [Instagram](https://instagram.com/peritosegurancadainformacao))
