@@ -1,0 +1,24 @@
+# Environments
+.env
+proxies.json
+
+# Database and Logs
+*.db
+*.log
+bot.pid
+dashboard_data.json
+coins.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# PHP / Web
+# (Dashboard data is excluded above)
+
+# System / Tools
+check_symbol.py
+debug_wallet.py
